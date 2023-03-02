@@ -21,8 +21,10 @@ Write a program to get "HIRE DATE" of employee who's department is within range 
 The output should be in following format :-> 
                                          {
                                            "<HIRE DATE in YYYY-MM-DD format>": [
-                                           "<first_name last_name>", ...,
-                                            "<first_name last_name>"],
+                                                                            "<first_name last_name>", 
+                                                                            "<first_name last_name>",
+                                                                            ...,
+                                                                            ],
                                          }
 ```
 
